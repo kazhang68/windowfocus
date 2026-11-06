@@ -1,6 +1,9 @@
 # WindowFocus
 
-WindowFocus is a lightweight AutoHotkey v2 script for temporarily centering a designated "main" window on an ultrawide Windows desktop, then restoring the original layout exactly.
+My neck has been fucking killing me bc i have a widescreen as well as a vertical monitor on the side. this is my solution. 
+
+A lightweight AutoHotkey v2 script for temporarily centering a designated "main" window on an ultrawide Windows desktop, then restoring the original layout exactly.
+
 
 This repository is currently at Phase 3. It implements main-window focus, hold-to-peek with Caps Lock, persistent XButton2 comparison, and full restore.
 
